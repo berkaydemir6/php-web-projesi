@@ -213,7 +213,7 @@
 
     <div class="flex-container">
     <div style="flex: 1; text-align:center; "><img src="'.$poster.'" class="img-fluid" alt="'.$icerik_adi.'" width="250px" height="600px"></div>
-    <div class="dikey" style="flex: 2;"><div class="card" style="width: 45rem; "><div class="card-body">
+    <div class="dikey" style="flex: 2;"><div class="card" style="width: 45rem; overflow: hidden; text-overflow: ellipsis;"><div class="card-body">
     <h1>'.$icerik_adi.'</h1>
 
     <span class="ozet">'.$ozet.'</span>
